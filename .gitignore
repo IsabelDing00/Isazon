@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# TODO: add a .idea
+# add the .idea
 .idea
 
 # C extensions
